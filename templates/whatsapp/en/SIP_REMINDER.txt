@@ -1,0 +1,7 @@
+Hi {{ customer_name }} 👋
+
+Your SIP of *Rs.{{ sip_amount }}* for *{{ fund_name }}* is scheduled for *{{ debit_date }}*.
+
+Please ensure sufficient balance in your linked bank account.
+
+Manage your SIP: {{ short_link }}

@@ -1,0 +1,1 @@
+{"title": "Order Executed", "body": "Your {{ side }} order for {{ qty }} {{ symbol }} @ Rs.{{ price }} is filled.", "deep_link": "app://orders/{{ order_id }}"}

@@ -1,0 +1,1 @@
+{"title": "Price Alert", "body": "{{ symbol }} hit Rs.{{ current_price }} (target Rs.{{ target_price }}).", "deep_link": "app://watchlist/{{ symbol }}"}

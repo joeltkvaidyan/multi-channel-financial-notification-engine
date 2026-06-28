@@ -1,0 +1,1 @@
+{{ broker_name }}: ALERT - {{ symbol }} has hit your target price of Rs.{{ target_price }} (current: Rs.{{ current_price }}). {{ short_link }}

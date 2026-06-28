@@ -1,0 +1,1 @@
+{{ broker_name | default("Your broker") }}: You have a new update ({{ event_code }}). Open the app for details.

@@ -1,0 +1,7 @@
+📈 Weekly Market Digest from {{ broker_name }}
+
+{{ headline_summary }}
+
+Top movers: {{ top_movers }}
+
+Reply STOP to opt out of weekly digests anytime.

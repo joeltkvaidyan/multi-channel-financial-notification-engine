@@ -1,0 +1,1 @@
+{{ broker_name }}: URGENT - Your account {{ account_id }} has a margin shortfall of Rs.{{ shortfall_amount }}. Add funds by {{ deadline }} to avoid auto square-off. Login: {{ short_link }}

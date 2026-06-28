@@ -1,0 +1,1 @@
+{{ side }} order placed: {{ qty }} {{ symbol }} @ Rs.{{ price }} (Order #{{ order_id }})

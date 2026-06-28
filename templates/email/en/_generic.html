@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"></head>
+<body style="font-family: Arial, sans-serif;">
+  <p>Dear {{ customer_name | default("Customer") }},</p>
+  <p>You have a new notification: <strong>{{ event_code }}</strong>.</p>
+  <p>Please log in to your account for details.</p>
+</body>
+</html>

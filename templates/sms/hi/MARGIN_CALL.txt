@@ -1,0 +1,1 @@
+{{ broker_name }}: जरूरी - आपके खाते {{ account_id }} में Rs.{{ shortfall_amount }} की मार्जिन कमी है। ऑटो स्क्वायर-ऑफ से बचने हेतु {{ deadline }} तक फंड जोड़ें। लॉगिन: {{ short_link }}

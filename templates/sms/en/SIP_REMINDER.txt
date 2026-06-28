@@ -1,0 +1,1 @@
+{{ broker_name }}: Reminder - your SIP of Rs.{{ sip_amount }} for {{ fund_name }} will be debited on {{ debit_date }}. Ensure sufficient balance. Manage: {{ short_link }}

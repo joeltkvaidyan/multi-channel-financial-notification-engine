@@ -1,0 +1,1 @@
+{"title": "Update", "body": "You have a new notification ({{ event_code }}).", "deep_link": "app://home"}

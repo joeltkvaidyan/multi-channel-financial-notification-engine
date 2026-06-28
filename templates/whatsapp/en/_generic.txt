@@ -1,0 +1,1 @@
+Hi {{ customer_name | default("there") }}, you have a new update ({{ event_code }}). Open the app for details.
